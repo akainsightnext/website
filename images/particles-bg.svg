@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>particles-bg</title>
+    <g id="particles-bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="particle-1" fill="#FFFFFF" cx="100" cy="100" r="4"></circle>
+        <circle id="particle-2" fill="#FFFFFF" cx="200" cy="150" r="3"></circle>
+        <circle id="particle-3" fill="#FFFFFF" cx="300" cy="200" r="5"></circle>
+        <circle id="particle-4" fill="#FFFFFF" cx="400" cy="100" r="2"></circle>
+        <circle id="particle-5" fill="#FFFFFF" cx="500" cy="300" r="4"></circle>
+        <circle id="particle-6" fill="#FFFFFF" cx="600" cy="200" r="3"></circle>
+        <circle id="particle-7" fill="#FFFFFF" cx="700" cy="400" r="5"></circle>
+        <circle id="particle-8" fill="#FFFFFF" cx="150" cy="350" r="3"></circle>
+        <circle id="particle-9" fill="#FFFFFF" cx="250" cy="450" r="4"></circle>
+        <circle id="particle-10" fill="#FFFFFF" cx="350" cy="500" r="2"></circle>
+        <circle id="particle-11" fill="#FFFFFF" cx="450" cy="400" r="5"></circle>
+        <circle id="particle-12" fill="#FFFFFF" cx="550" cy="500" r="3"></circle>
+        <circle id="particle-13" fill="#FFFFFF" cx="650" cy="550" r="4"></circle>
+        <circle id="particle-14" fill="#FFFFFF" cx="750" cy="150" r="2"></circle>
+        <circle id="particle-15" fill="#FFFFFF" cx="50" cy="250" r="3"></circle>
+        <circle id="particle-16" fill="#FFFFFF" cx="150" cy="50" r="2"></circle>
+        <circle id="particle-17" fill="#FFFFFF" cx="250" cy="300" r="4"></circle>
+        <circle id="particle-18" fill="#FFFFFF" cx="350" cy="350" r="3"></circle>
+        <circle id="particle-19" fill="#FFFFFF" cx="450" cy="250" r="5"></circle>
+        <circle id="particle-20" fill="#FFFFFF" cx="550" cy="150" r="2"></circle>
+        <circle id="particle-21" fill="#FFFFFF" cx="650" cy="50" r="4"></circle>
+        <circle id="particle-22" fill="#FFFFFF" cx="750" cy="300" r="3"></circle>
+        <circle id="particle-23" fill="#FFFFFF" cx="50" cy="450" r="5"></circle>
+        <circle id="particle-24" fill="#FFFFFF" cx="150" cy="550" r="2"></circle>
+        <circle id="particle-25" fill="#FFFFFF" cx="250" cy="50" r="4"></circle>
+        <circle id="particle-26" fill="#FFFFFF" cx="350" cy="150" r="3"></circle>
+        <circle id="particle-27" fill="#FFFFFF" cx="450" cy="550" r="5"></circle>
+        <circle id="particle-28" fill="#FFFFFF" cx="550" cy="350" r="2"></circle>
+        <circle id="particle-29" fill="#FFFFFF" cx="650" cy="250" r="4"></circle>
+        <circle id="particle-30" fill="#FFFFFF" cx="750" cy="450" r="3"></circle>
+    </g>
+</svg>
